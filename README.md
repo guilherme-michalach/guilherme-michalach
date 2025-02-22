@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, World! 🌍
 
-<!--
-**guilherme-michalach/guilherme-michalach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guilherme 👋 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at CI&T on a financial app
+- 🌱 I’m currently learning about machine learning
+- 👯 I’m looking to collaborate on interesting projects
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-guilhermemichalach@gmail.com-blue)](mailto:guilhermemichalach@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-michalach&layout=compact&theme=radical)
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-mateus-michalach/) 
+
+In the future I plan to create a Blog or a Youtube channel
+
