@@ -8,7 +8,7 @@ I'm Guilherme 👋
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-guilhermemichalach@gmail.com-blue)](mailto:guilhermemichalach@gmail.com)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats-one-mu-20.vercel.app/api/top-langs/?username=guilherme-michalach&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-one-mu-20.vercel.app/api/top-langs/?username=guilherme-michalach&layout=compact&theme=radical&exclude_repo=entra21-guilherme_michalach)
 
 ---
 
